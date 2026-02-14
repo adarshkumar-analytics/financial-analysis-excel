@@ -136,7 +136,7 @@ Built a decision-support financial dashboard for business strategy
 
 Download the Excel file from this repository.
 
-Open in Microsoft Excel (2016 or later recommended).
+Open in Microsoft Excel.
 
 Use filters and pivot tables to explore:
 
